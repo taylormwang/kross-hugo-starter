@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://minruowang.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
